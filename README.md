@@ -132,7 +132,7 @@ and structurally risky pathways.
 This stage established controlled downstream diagnostic inputs.
 
 # Diagnostic Exploration Framework
-Phase 1 — Behavioral State Construction
+Phase 1: Behavioral State Construction
 
 Converted continuous behavioral variables into interpretable state systems.
 
@@ -144,7 +144,7 @@ low / moderate / high value density.
 
 This stage established the foundational behavioral language used throughout the project.
 
-Phase 2 — Behavioral Topology Mapping
+Phase 2: Behavioral Topology Mapping
 
 Mapped how churned users cluster behaviorally through:
 
@@ -157,7 +157,7 @@ The objective was not prediction.
 
 The objective was structural organization.
 
-Phase 3 — Archetype Transition & Directional Pathways
+Phase 3: Archetype Transition & Directional Pathways
 
 Modeled churn as directional behavioral deterioration rather than a static endpoint.
 
