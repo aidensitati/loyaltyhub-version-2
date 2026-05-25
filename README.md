@@ -48,8 +48,6 @@ membership segmentation,
 and churn outcomes.
 Analytical Philosophy
 
-This repository intentionally avoids shallow “top feature” style churn analysis.
-
 The workflow was built around:
 
 structural diagnostics,
@@ -74,6 +72,7 @@ Core goals:
 detect leakage risk,
 isolate outcome-conditioned variables,
 validate temporal integrity.
+
 2. Statistical Structural Decomposition
 
 Performed distributional and interaction-level analysis to:
@@ -82,6 +81,7 @@ quantify feature structure,
 identify churn-sensitive variables,
 classify behavioral vs structural signals,
 detect low-information variables.
+
 3. Feature Engineering
 
 Constructed behaviorally meaningful analytical signals under strict constraints:
@@ -96,6 +96,7 @@ value density,
 engagement efficiency,
 points-per-day,
 behavioral activity ratios.
+
 4. Statistical Validation Layer
 
 Validated whether engineered variables improved analytical separability without introducing distortion.
@@ -106,6 +107,7 @@ transformation quality,
 interaction utility,
 structural consistency,
 numerical integrity.
+
 5. Target Variable Structural Analysis
 
 Mapped how churn distributes across:
@@ -120,6 +122,7 @@ This stage focused on:
 churn concentration,
 separability zones,
 and structural difficulty regions.
+
 6. Feature Triage Framework
 
 Separated variables into:
@@ -168,7 +171,8 @@ stagnation,
 behavioral collapse,
 engagement-value divergence,
 and progression failure pathways.
-Inferential Structural Alignment & Residue Validation
+
+# Inferential Structural Alignment & Residue Validation
 
 The final inferential stage reconstructed discovered churn structures numerically and tested whether those structures:
 
