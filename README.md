@@ -3,9 +3,6 @@ A full-stack exploratory churn analysis project focused on reconstructing how be
 
 This project moves beyond traditional churn prediction by treating churn as a behavioral system, not just a binary outcome.
 
-Instead of asking:
-
-“Which variables correlate with churn?”
 
 the analysis investigates:
 
